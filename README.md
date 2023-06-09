@@ -10,9 +10,10 @@ It takes three parameters: CGPA, IQ Score and Profile Score as input and predict
 https://youtu.be/8grARn8Xygs
 
 ## Screenshots
-![image](https://github.com/MartinaJohn/Student-Placement-Prediction-System/assets/87894064/777304b0-e2ef-4d18-9dd8-971b2dfd1376)
+![Screenshot (1164)](https://github.com/MartinaJohn/Student-Placement-Prediction-System/assets/87894064/debf778a-6458-4396-953e-39f8c16fb9bb)
 
-![Screenshot (1162)](https://github.com/MartinaJohn/Student-Placement-Prediction-System/assets/87894064/05a53670-8d3f-4e26-9925-b0cd337f74c7)
+![Screenshot (1162)](https://github.com/MartinaJohn/Student-Placement-Prediction-System/assets/87894064/7d97a8a3-4587-412d-bc1c-a6935b1b6d01)
+
 
 
 
